@@ -1,0 +1,33 @@
+{
+    "blocks": [
+        {
+            "block": "head",
+            "permission": 0,
+            "display": "ryanlinjui",
+            "avatar": "https://avatars.githubusercontent.com/u/57468611?v=4"
+        },
+        {
+            "block": "chat",
+            "permission": 0,
+            "greeting": "👋 嗨！我是R，目前就讀於師大資工"
+        },
+        {
+            "block": "action",
+            "title": "你可以在這些地方找到我～",
+            "permission": 0,
+            "actions": [
+                {
+                    "display": {
+                        "icon": "mdi:github",
+                        "text": "GitHub",
+                        "color": ""
+                    },
+                    "handle": {
+                        "type": "link",
+                        "value": "https://github.com/ryanlinjui"
+                    }
+                }
+            ]
+        }
+    ]
+}
